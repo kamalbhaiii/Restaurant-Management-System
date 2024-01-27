@@ -1,0 +1,22 @@
+{
+    "1": {
+        "tableNo": "1",
+        "customerName": "Kamal",
+        "customerContact": "9724835275",
+        "items": [
+            "1001",
+            "1002"
+        ],
+        "checkedOut": "True"
+    },
+    "2": {
+        "tableNo": "1",
+        "customerName": "Kamal",
+        "customerContact": "9724835275",
+        "items": [
+            "1001",
+            "1004"
+        ],
+        "checkedOut": "False"
+    }
+}

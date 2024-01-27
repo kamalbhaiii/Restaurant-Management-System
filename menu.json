@@ -1,0 +1,22 @@
+{
+    "1001": {
+        "name": "Margertia Pizza",
+        "price": 90
+    },
+    "1002": {
+        "name": "Cheese Burst Veggies Pizza",
+        "price": 140
+    },
+    "1003": {
+        "name": "Mushroom Pizza",
+        "price": 110
+    },
+    "1004": {
+        "name": "Classic Corn Pizza",
+        "price": 70
+    },
+    "1005": {
+        "name": "Garden Delight Pizza",
+        "price": 130
+    }
+}
